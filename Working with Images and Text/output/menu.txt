@@ -1,0 +1,53 @@
+APPETIZERS|Southern Fried Quail with Greens,Huckleberries, Pecans & Blue Cheese|14.00
+APPETIZERS|Park Avenue Cafe Chopped Salad Goat Feta Cheese, Nicoise Olives, Marinated White Anchovies, Aged Balsamic Vinegar|12.75
+APPETIZERS|Smoked Salmon & Pastrami Salmon TM with Blini, Quail Eggs & Horseradish Creme Fraiche|15.50
+APPETIZERS|Artichoke Ravioli Tomato, Citrus, Frisee|12.75
+APPETIZERS|Salad of Mixed Organic Greens with Vine Ripened Tomatoes & Fresh Herbs|9.75
+APPETIZERS|Tasting of Petite Appetizers|16.00
+APPETIZERS|Country Salad with Walnuts & Coach Farms Goat Cheese|12.75
+APPETIZERS|Tuna & Salmon Tartare with Osetra Caviar|14.50
+APPETIZERS|Handmade Cavatelli with Wild Mushrooms & White Truffle Oil|14.50
+APPETIZERS|Caramelized Sweetbread Tartlette with Black Truffles & Onions|12.50
+APPETIZERS|Foie Gras "Hot & Cold" Sauteed with Raisin, Pecan & Oatmeal Tart Chilled with Roasted Beet & Mushroom Salad|17.50
+APPETIZERS|Black & White Bean Soup with Spicy Shrimp Quesadilla|11.50
+SHELLFISH BY THE PIECE|Atlantic Oysters|2.25 
+SHELLFISH BY THE PIECE|Littleneck Clams|2.00
+SHELLFISH BY THE PIECE|Jumbo Shrimp|4.25 
+SHELLFISH BY THE PIECE|1 lb Chilled Lobster|14.50
+SHELLFISH BY THE PIECE|1/4 1b.Colossal Crab Meat|13.75 
+SHELLFISH BY THE PIECE|Shellfish Platter|21.00
+ENTREES|Horseradish Crusted Canadian Salmon Potato Fritters, Marinated Cucumbers Chive Vinaigrette|27.00
+ENTREES|Sauteed Prawns with Mushroom Tortellini, Grilled Tomato Vinaigrette & Sweet Corn|29.50
+ENTREES|Mustard Crusted Tuna Teriyaki|29.75
+ENTREES|Pan Roasted Atlantic Cod with Potato, Leek & Crab Home-fries|29.50
+ENTREES|Lobster Steak with Hash-Brown Potatoes Lemon Brown Butter|42.00
+ENTREES|Swordchop TM with Tomato Ditalini & Lemon Broth (Market Availability)|34.50
+ENTREES|Mrs. Ascher's Steamed Vegetable Torte|19.50
+ENTREES|Onion Crusted Roast Organic Chicken with Whipped Potatoes|26.50
+ENTREES|Duck, Duck, Duck ! " Breast," "Meatloal" & "Foie Gras Corn Cake"|29.50
+ENTREES|Rack of Lamb with Lamb Shank Ravioli Roasted Tomatoes, Broccoli Rabe, Minted Balsamic Vinegar|30.50
+ENTREES|Veal Chop with Wild Mushrooms & Potato Gnocchi|34.50
+ENTREES|Grilled Dry Aged Rib Eye Steak|34.50
+SIDE DISHES|French Fries with Truffle Mayonnaise|8.50
+SIDE DISHES|Creamed Spinach & Leeks|8.50
+SIDE DISHES|Bamboo Steamed Vegetables|8.50
+SIDE DISHES|David Burke's Whipped Potatoes|8.50
+SIDE DISHES|Wild Mushroom Hash|8.50
+Wine by the Glass|Champagne, Taittinger "Cuvee Prestige", Brut NV France|12.75|NaN
+Wine by the Glass|Wine of the Day|15.00|8.00
+Wine by the Glass|Chardonnay, Logan "Sleepy Hollow Vineyard", 1998, Monterey|13.00|7.00
+Wine by the Glass|Sauvignon Blanc, Goldwater "Dog Point", 1999, NZ (Wine Spectator Rating 90)|11.50|6.00
+Wine by the Glass|Chenin Blane, Foxen, 1999, Santa Barbara|11.00|6.00
+Wine by the Glass|Pinot Grigio, 1999, Danzante, Italy (Frescobaldi/Mondavi)|9.00|5.00
+Wine by the Glass|Chateau de Poce, Touraine, 1999, Sauvignon|7.75|4.00
+Wine by the Glass|Merlot, Franciscan, Oakville Estate, 1997, Napa|12.75|7.00
+Wine by the Glass|Syrah, McDowell, 1998, Mendocino|9.50|5.00
+Wine by the Glass|Pinot Noir, David Bruce, 1999, "Central Coast"|13.50|7.00
+Wine by the Glass|Zinfandel, Cline "Old Vines", 1999, Contra Costa|12.00|6.00
+Wine by the Glass|Cabernet Sauvignon, FaralIon, 1997, North Coast|8.75|4.50
+Wine by the Glass|Vino Nobile di Montepulciano, I1 Faggeto, 1997, Tuscany|13,25|7.00
+Wine by the Glass|Chateau, Bel Air, "Haut Medoc", 1997, Bordeaux|9.75|5.00
+Flights|The Bull's Flight David Bruce Pinot Noir, Cline "Old Vines"Zinfandel, Wine of the Day|20.00|NaN
+Flights|The Frog's Flight Foxen Chenin Blanc, Logan Chardonnay, Danzante Pinot Grigio|16.00|NaN
+Flights|Mix & Match Flight Franciscan Merlot, McDowell Syrah, Cline "Old Vines" Zinfandel|16.00|NaN
+Flights|2001 The Vertical Limit 1/2 bottle of 95, 96, 97 Opus One (3 1/2 Bottles)|200.10|NaN
